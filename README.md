@@ -17,7 +17,7 @@
 <p><img src="https://github.com/Sonenka/dblab3/blob/main/pictures/result.png" alt="вывод программы" /></p>
 <p>Гистограмма и график, построенные на основе полученных данных (в папке files вы можете найти файл Excel со всеми графиками):</p>
 <p><img src="https://github.com/Sonenka/dblab3/blob/main/pictures/graph.png" alt="Гистограмма" /></p>
-<p><img src="https://github.com/Sonenka/dblab3/blob/main/pictures/graph.png" alt="Линейный график" /></p>
+<p><img src="https://github.com/Sonenka/dblab3/blob/main/pictures/linegraph.png" alt="Линейный график" /></p>
 <p></p>
 <h4>Отчет</h4>
 <p>По полученным данным можно сделать выводы о каждой из библиотек:</p>
