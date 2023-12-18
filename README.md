@@ -7,7 +7,7 @@
 <p>2) Установите используемые библиотеки через терминал, используя следующую команду:&nbsp;<code>pip install duckdb gdown pandas psycopg2-binary</code></p>
 <p dir="auto">3) Клонируйте репозиторий в нужную директорию, используя следующую команду:</p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto">
-<pre class="notranslate"><code>https://github.com/Sonenka/dblab3.git</code></pre>
+<pre class="notranslate"><code>git clone https://github.com/Sonenka/dblab3.git</code></pre>
 </div>
 <p>4) Измените настройки под себя в файле config.py.</p>
 <p>5) Запускайте программу.</p>
