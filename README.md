@@ -12,4 +12,6 @@
 <p>4) Измените настройки под себя в файле config.py.</p>
 <p>5) Запускайте программу.</p>
 <h4>Результаты запуска</h4>
+<p>Вывод программы:</p>
+<p><img src="https://github.com/Sonenka/dblab3/blob/main/pictures/result.png" alt="вывод программы" /></p>
 <h4>Отчет</h4>
