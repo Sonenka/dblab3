@@ -11,7 +11,18 @@
 </div>
 <p>4) Измените настройки под себя в файле config.py.</p>
 <p>5) Запускайте программу.</p>
+<p></p>
 <h4>Результаты запуска</h4>
 <p>Вывод программы:</p>
 <p><img src="https://github.com/Sonenka/dblab3/blob/main/pictures/result.png" alt="вывод программы" /></p>
+<p>Гистограмма и график, построенные на основе полученных данных (в папке files вы можете найти файл Excel со всеми графиками):</p>
+<p><img src="https://github.com/Sonenka/dblab3/blob/main/pictures/graph.png" alt="Гистограмма" /></p>
+<p><img src="https://github.com/Sonenka/dblab3/blob/main/pictures/graph.png" alt="Линейный график" /></p>
+<p></p>
 <h4>Отчет</h4>
+<p>По полученным данным можно сделать выводы о каждой из библиотек:</p>
+<p>1)&nbsp;Psycopg2</p>
+<p>По моему мнению, это самая неудобная в использовании библеотека из представленных, так как помимо написания самого кода, необходимо было подключаться к PostgreSQL.</p>
+<p>2)&nbsp;SQLite</p>
+<p>3)&nbsp;DuckDB</p>
+<p>4)&nbsp;Pandas</p>
