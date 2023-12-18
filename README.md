@@ -4,7 +4,7 @@
 <p>Запуск осуществляется через один файл lite.py, при этом используемые в запуске библиотеки могут изменяться в файле config.py.</p>
 <h2>Запуск</h2>
 <p>1) Установите python с официального сайта&nbsp;<a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a>, а так же PostgreSQL при необходимости</p>
-<p>2) Установите используемые библиотеки через терминал, используя следующую команду:&nbsp;<code>pip install duckdb gdown pandas psycopg2-binary</code></p>
+<p>2) Установите используемые библиотеки (и gdown для скачивания датасета) через терминал, используя следующую команду:&nbsp;<code>pip install duckdb pandas psycopg2 gdown</code></p>
 <p dir="auto">3) Клонируйте репозиторий в нужную директорию, используя следующую команду:</p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto">
 <pre class="notranslate"><code>git clone https://github.com/Sonenka/dblab3.git</code></pre>
